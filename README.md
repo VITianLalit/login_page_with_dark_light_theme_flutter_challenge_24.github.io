@@ -14,3 +14,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+snapshot:
+
+
+
+
+https://github.com/VITianLalit/login_page_with_dark_light_theme_flutter_challenge_24.github.io/assets/98540540/06312dc1-bf85-417e-a066-bdbb9b65e465
+
